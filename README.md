@@ -32,7 +32,7 @@ You can use any statiscs platform of your choosing that is based on client javas
 - [Amplitude](https://amplitude.com/homepage)
 - [Hotjar](https://www.hotjar.com/)
 
-You can use any of the functions for load and click defined on the javascript file of the LinkFree template or add code snippets to the Head or Body of the HTML file.
+You can use any of the functions for load and click defined on the javascript file of the LinkFree template or add code snippets to the Head or Body of the HTML file..
 
 ## How to contribute?
 
